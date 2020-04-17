@@ -1,2 +1,2 @@
-#gitCrashcourse/MyApp
+# gitCrashcourse/MyApp
 This is my app.
